@@ -37,7 +37,6 @@ def reducer_query_1(sequence):
 #
 # ORQUESTADOR:
 #
-#
 def run():
     """Orquestador"""
 
